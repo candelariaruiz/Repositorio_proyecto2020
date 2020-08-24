@@ -3297,3 +3297,17 @@ ol {
 		text-align: left;
 		margin-bottom: 30px;
 	}
+
+	.descripcion5 {
+		font-size: 40px;
+		color: #dea318;
+		font-family:'Loved by the King', cursive;
+		align-content: left;
+		text-align: left;
+		margin-bottom: 30px;
+	}
+	.ramamenu {
+		margin-left: 110px;
+		display: auto;
+	}
+
