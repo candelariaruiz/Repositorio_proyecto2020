@@ -83,7 +83,7 @@ p {
 }
 
 img {
-	max-width: 30%;
+	max-width: 40%;
 }
 
 input:focus,
@@ -3259,20 +3259,20 @@ ol {
 
 }
 	.descripcion {
-		font-size: 20px;
-		color: #dea318;
+		font-size: 23px;
+		color: #ad410a;
 		font-family:'Loved by the King', cursive;
 		align-content: center;
 		text-align: center;
-		margin-right: 30px;
-		margin-left: 30px;
+		margin-right: 50px;
+		margin-left: 50px;
 		padding: 20px;
 	}
 
 
 	.descripcion2 {
 		font-size: 60px;
-		color: grey;
+		color: #ad410a;
 		font-family:'Loved by the King', cursive;
 		align-content: center;
 		text-align: center;
@@ -3280,7 +3280,7 @@ ol {
 	}
 
 	.descripcion3 {
-		font-size: 20px;
+		font-size: 23px;
 		color: black;
 		font-family:'Loved by the King', cursive;
 		align-content: center;
@@ -3291,7 +3291,7 @@ ol {
 
 	.descripcion4 {
 		font-size: 40px;
-		color: grey;
+		color: #ad410a;
 		font-family:'Loved by the King', cursive;
 		align-content: left;
 		text-align: left;
